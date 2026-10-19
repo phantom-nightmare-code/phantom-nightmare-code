@@ -1,6 +1,24 @@
-# Hi, I'm James Adrian Castro 👋
+<p align="center">
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="64" alt="robot" />
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="64" alt="waving hand" />
+</p>
 
-> *"Just Someone who studies Machine Learning at National University Manila"*
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20I%27m%20James%20Adrian%20Castro&width=900&height=160" alt="Hi, I'm James Adrian Castro" />
+</p>
+
+<p align="center">
+  <em>Just Someone who studies Machine Learning at National University Manila</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/phantom-nightmare-code">
+    <img src="https://img.shields.io/badge/GitHub-phantom--nightmare--code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-ayumu__suzuhara-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</p>
+
+---
 
 ## About me
 
