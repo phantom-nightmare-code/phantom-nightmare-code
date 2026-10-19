@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm James 👋
 
-<!--
-**phantom-nightmare-code/phantom-nightmare-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student interested in building software and learning new technologies.
 
-Here are some ideas to get you started:
+## Skills and technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning and working with:
+
+- **Languages:** Python, Java, JavaScript, C, C++, Rust, SQL
+- **Web:** HTML and CSS
+- **Areas of interest:** Machine learning
+
+## Featured project
+
+- [MATLAB Shape Recognition GUI](https://github.com/phantom-nightmare-code/ShapeRecognition-REPO) - detects and counts colored circles, squares, and triangles, with a results chart.
+
+## Contact
+
+- **Discord:** `ayumu_suzuhara`
