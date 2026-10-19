@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Hi, I'm James Adrian Castro">
+  <title>Hi, I'm James Adrian Castro</title>
+  <defs>
+    <style>
+      .label {
+        font-family: "Segoe UI", -apple-system, "Helvetica Neue", Arial, sans-serif;
+        font-size: 54px;
+        font-weight: 800;
+        letter-spacing: 1px;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      .base  { fill: #2f81f7; }
+      .g1    { fill: #00fff0; opacity: 0.85; }
+      .g2    { fill: #ff2e6b; opacity: 0.85; }
+
+      .layer-a    { animation: shiftA 2.4s steps(2, end) infinite; }
+      .layer-b    { animation: shiftB 3.2s steps(2, end) infinite; }
+      .base-layer { animation: jitter 4.5s steps(1, end) infinite; }
+      .scan       { animation: scan 3.6s linear infinite; }
+
+      @keyframes shiftA {
+        0%   { transform: translate(-4px, -2px); }
+        25%  { transform: translate(3px, 1px); }
+        50%  { transform: translate(-2px, 2px); }
+        75%  { transform: translate(4px, -1px); }
+        100% { transform: translate(-4px, -2px); }
+      }
+      @keyframes shiftB {
+        0%   { transform: translate(4px, 2px); }
+        25%  { transform: translate(-3px, -1px); }
+        50%  { transform: translate(2px, -2px); }
+        75%  { transform: translate(-4px, 1px); }
+        100% { transform: translate(4px, 2px); }
+      }
+      @keyframes jitter {
+        0%, 90%, 100% { transform: translate(0, 0); }
+        91% { transform: translate(-2px, 1px); }
+        94% { transform: translate(2px, -1px); }
+        97% { transform: translate(-1px, -1px); }
+      }
+      @keyframes scan {
+        0%   { transform: translateY(0);     opacity: 0; }
+        10%  { opacity: 0.5; }
+        90%  { opacity: 0.5; }
+        100% { transform: translateY(150px); opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <g class="layer-a">
+    <text class="label g1" x="450" y="78">Hi, I&#39;m James Adrian Castro</text>
+  </g>
+  <g class="layer-b">
+    <text class="label g2" x="450" y="78">Hi, I&#39;m James Adrian Castro</text>
+  </g>
+  <g class="base-layer">
+    <text class="label base" x="450" y="78">Hi, I&#39;m James Adrian Castro</text>
+  </g>
+
+  <rect class="scan" x="0" y="0" width="900" height="5" fill="#2f81f7" opacity="0" />
+</svg>
