@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I am James! 👋</h1>
+  <img src="./animated-greeting.gif" alt="Hey, I am James!" width="520" />
   <p><b>Computer Science Student · Aspiring Developer · Anime Fan</b></p>
   <img src="./anime-inspired-original.gif" alt="Original anime-inspired character waving beside a laptop" width="480" />
   <br><br>
