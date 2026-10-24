@@ -57,6 +57,7 @@ I am a computer science student who enjoys building software, exploring new tech
 
 [Echoes of the Fifty Six Worlds: Requiem of the Maid]([https://github.com/phantom-nightmare-code/fifty-six-lives-visual-novel]) is a Python visual novel featuring Mika Amanogawa, animated anime-style sprites, chapter selection, offline voices, and a soundboard.  
 **Built with:** Python, Tkinter, Pygame, and pyttsx3.
+link: https://github.com/phantom-nightmare-code/Echoes-Of-The-Fifty-Sixth-visual-novel
 
 ## 📂 More projects
 
